@@ -3,7 +3,6 @@
 ## Project Overview
 The **Bike Sales Dashboard** analyzes customer demographics and purchasing behavior to understand factors influencing bike purchases. This dashboard helps businesses identify target customers and optimize sales strategies.
 
----
 
 ## Business Objectives
 - Analyze income patterns by gender
@@ -11,7 +10,6 @@ The **Bike Sales Dashboard** analyzes customer demographics and purchasing behav
 - Understand commuting distance impact on bike purchases
 - Segment customers by region, education, and marital status
 
----
 
 ## Dashboard Components
 ### Average Income per Purchase
@@ -32,14 +30,12 @@ The **Bike Sales Dashboard** analyzes customer demographics and purchasing behav
   - 5–10 miles
   - 10+ miles
 
----
 
 ## Interactive Filters
 - Marital Status
 - Region (Europe, North America, Pacific)
 - Education Level
 
----
 
 ## Tools & Techniques Used
 - Microsoft Excel
@@ -48,7 +44,6 @@ The **Bike Sales Dashboard** analyzes customer demographics and purchasing behav
 - Data Categorization
 - Data Visualization
 
----
 
 ## Key Insights
 - Middle-aged customers show higher bike purchase rates
